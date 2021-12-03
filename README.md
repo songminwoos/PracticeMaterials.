@@ -558,6 +558,7 @@
 * Ch17_Collections\src\p04\hashset_ex2 Folder Create
 * └ HashSetEx.java 파일 생성 및 소스 코드 작성
 * └ Member.java 파일 생성 및 소스 코드 작성
+
 # 2021년 12월 1일 실습일지
 * Ch17_Collections\src\p04\hashset_ex2 Folder Edit
 * └ HashSetEx.java 파일 수정 및 소스 코드 수정
@@ -578,3 +579,24 @@
 * Ch17_Collections\src\p08\queue_ex Folder Create
 * └ Message.java 파일 생성 및 소스 코드 작성
 * └ QueueEx.java 파일 생성 및 소스 코드 작성
+
+# 2021년 12월 2일 실습일지
+* Ch18_FileIO\src\p01\io\inputstream  Folder Create
+* └ ReadEx1.java 파일 생성 및 소스 코드 작성
+* └ ReadEx2.java 파일 생성 및 소스 코드 작성
+* └ text.txt 파일 생성 및 파일 내용 작성
+* Ch18_FileIO\src\p02\outputstream Folder Create
+* └ FileWriteEx1.java 파일 생성 및 소스 코드 작성
+* └ FileWrite2.java 파일 생성 및 소스 코드 작성
+* Ch18_FileIO\src\p03\io\reader Folder Create
+* └ CharReaderEx.java 파일 생성 및 소스 코드 작성
+* └ CharReaderEx2.java 파일 생성 및 소스 코드 작성
+* Ch18_FileIO\src\p04\io\writer Folder Create
+* └ CharWriterEx.java 파일 생성 및 소스 코드 작성
+* Ch18_FileIO\src\p05\console Folder Create
+* └ ConsoleEx.java 파일 생성 및 소스 코드 작성
+* └ SystemInEx.java 파일 생성 및 소스 코드 작성
+* └ SystemInEx2.java 파일 생성 및 소스 코드 작성
+* └ SystemOutEx.java 파일 생성 및 소스 코드 작성
+
+# 2021년 12월 3일 실습일지
